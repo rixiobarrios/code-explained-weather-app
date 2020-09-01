@@ -8,4 +8,4 @@
 Weather App Tutorial for Code Explained using a third party API
 
 
-https://www.youtube.com/watch?v=KqZGuzrY9D4
+https://www.codeexplained.org/2020/06/Build-A-Weather-App-Using-JavaScript.html
